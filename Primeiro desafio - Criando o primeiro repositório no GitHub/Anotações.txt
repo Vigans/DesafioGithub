@@ -1,0 +1,1 @@
+Criar um repositório no github, fazendo uso do Git, para organizar as anotações do curso, o intuito é seguir alimentando esse repositório até concluir o curso
